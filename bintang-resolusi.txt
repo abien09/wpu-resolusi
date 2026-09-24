@@ -1,0 +1,12 @@
+halo pak salam kenal nama saya muhammad bintang mahasiswa unpam dan unpas
+
+RESOLUSI SAYA :
+ - Dapat pekerjaan yang office hour agar akademis dan karir saya menjadi balance
+ - Memperdalam framework laravel
+   * detail php native
+   * belajar vibe coding
+ - Mencoba bahasa lain selain php
+   * Javascript
+     < Framework dan Native
+   * Java
+     < OOP
